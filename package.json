@@ -1,0 +1,8 @@
+{
+  "name": "week09-board",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js", "test": "node tests/verify.cjs" },
+  "dependencies": { "express": "5.3.0" },
+  "devDependencies": { "playwright": "1.65.0" }
+}
